@@ -43,7 +43,7 @@ namespace UnitTestProject1
             dw.Manage().Window.Maximize();
             dw.Navigate().GoToUrl("https://www.portfolio.hu/");
             string s = dw.Url;
-            Assert.AreEqual(s, "https://www.portfolio.hu/");
+            Assert.AreEqual(s, "asd");
         }
     }
 }
