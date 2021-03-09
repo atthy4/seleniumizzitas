@@ -3,3 +3,8 @@ C:\Users\legenda\Desktop\Teszteles202102116\ConsoleApp1\ConsoleApp1\bin\Debug\Co
 C:\Users\legenda\Desktop\Teszteles202102116\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\legenda\Desktop\Teszteles202102116\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 C:\Users\legenda\Desktop\Teszteles202102116\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\legenda\Desktop\20210309Repo\seleniumizzitas\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\legenda\Desktop\20210309Repo\seleniumizzitas\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\legenda\Desktop\20210309Repo\seleniumizzitas\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\legenda\Desktop\20210309Repo\seleniumizzitas\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\legenda\Desktop\20210309Repo\seleniumizzitas\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

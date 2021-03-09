@@ -1,6 +1,8 @@
 ﻿using System;
 using ConsoleApp1;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Firefox;
 
 namespace UnitTestProject1
 {
@@ -33,6 +35,15 @@ namespace UnitTestProject1
                     Assert.IsTrue(rendezett[i] < rendezett[i + 1]);
                 }
             }
+        }
+        [TestMethod()]
+        public void NewMethodTest3()
+        {
+            FirefoxDriver dw = new FirefoxDriver();
+            dw.Manage().Window.Maximize();
+            dw.Navigate().GoToUrl("https://www.portfolio.hu/");
+            string s = dw.Url;
+            Assert.AreEqual(s, "https://www.portfolio.hu/");
         }
     }
 }
